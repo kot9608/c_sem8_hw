@@ -10,7 +10,7 @@ Console.WriteLine("Введите размер массива");
 int size = Convert.ToInt32(Console.ReadLine());
 
 int[,] nums = new int[size, size];
-
+ 
 int num = 1;
 int i = 0;
 int j = 0;

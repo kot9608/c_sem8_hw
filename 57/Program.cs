@@ -62,7 +62,7 @@ int[] GetRowArray(int[,] inArray)
     }
     return result;
 }
-
+ 
 void SortArray(int[] inArray)
 {
     for (int i = 0; i < inArray.Length; i++)

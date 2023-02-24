@@ -11,7 +11,7 @@ using System;
 using static System.Console;
 
 Clear();
-
+ 
 
 Write("Введите размер массивов: ");
 int size = int.Parse(ReadLine());

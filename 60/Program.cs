@@ -11,7 +11,7 @@ using static System.Console;
 
 Clear();
 
-
+ 
 Console.WriteLine($"Введите размер трёхмерного массива: ");
 int size = int.Parse(ReadLine());
 

@@ -62,7 +62,7 @@ void PrintArray(int[,] inArray)
         WriteLine();
     }
 }
-
+ 
 int[,] ChangeArray1(int[,] array)
 {
     int[,] result = new int [array.GetLength(1), array.GetLength(0)];
